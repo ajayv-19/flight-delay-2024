@@ -81,7 +81,7 @@ git clone https://github.com/ajayvenkatesh19/flight-delay-2024.git
 This project follows a Big Data pipeline architecture:
 1. **Data Ingestion** → BTS → HDFS  
 2. **Processing** → PySpark  
-3. **ML Modeling** → MLlib (Random Forest/Decision Tree / Logistic Regression)  
+3. **ML Modeling** → MLlib (Random Forest/Decision Tree / Logistic Regression / Multilayer Perceptron)  
 4. **Visualization** → Seaborn / Matplotlib / Plotly  
 5. **Output** → Predictions & dashboards
 
