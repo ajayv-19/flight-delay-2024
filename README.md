@@ -18,7 +18,7 @@ Flight delays are a persistent challenge in the aviation industry, leading to fi
 
 ## 📂 Project Structure
 - Dataset - 2024 airline delay dataset from BTS
-- airpots.dat
+- airports.dat
 - Project Report - Final Report of our project
 - Python Notebook - Main Notebook 
 - ReadME - Project Documentation
